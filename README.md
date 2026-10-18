@@ -1,6 +1,6 @@
 # Simon Fereshetyan
 
-Software developer from Yerevan, Armenia. I mostly work with Node.js and TypeScript, use Linux daily, and contribute to open-source projects in my spare time.
+Software developer from Yerevan, Armenia. I pick the stack to fit the problem — most often TypeScript and Node.js. Linux daily, open source on the side.
 
 [Website](https://fereshetyan.space) · [LinkedIn](https://www.linkedin.com/in/simon-fereshetyan) · [Telegram](https://t.me/sim2003on) · [Email](mailto:fereshetyansimon@gmail.com)
 
