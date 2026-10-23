@@ -6,15 +6,15 @@ Software developer from Yerevan, Armenia.
 
 ## Technologies
 
-`TypeScript` `Node.js` `NestJS` `React` `Next.js` `Tailwind CSS` `PostgreSQL` `Redis` `Prisma` `BullMQ` `Socket.IO` `REST APIs` `GraphQL` `OpenAPI`
+`TypeScript` `Node.js` `NestJS` `React` `Next.js` `Tailwind CSS` `PostgreSQL` `MongoDB` `Redis` `Prisma` `BullMQ` `Socket.IO` `REST APIs` `GraphQL` `OpenAPI` `Docker` `Docker Compose` `Cloudflare`
 
 ## Also worked with
 
-`MongoDB` `MySQL` `Python` `C++` `Rust`
+`Python` `C++` `Rust`
 
 ## Other things I work with
 
-`Docker` `Docker Compose` `Linux` `Cloudflare` `Hyper-V` `Windows Server` `Dokploy` `FFmpeg` `ESP32 / ESP8266`
+`Hyper-V` `Windows Server` `Dokploy` `FFmpeg` `ESP32 / ESP8266`
 
 ## Current setup
 
