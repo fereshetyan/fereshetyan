@@ -10,17 +10,19 @@ Software developer from Yerevan, Armenia.
 
 ## Also worked with
 
-`Python` `C++` `Rust` 
+`Python` `C++` `Rust`
 `Windows Server` `FFmpeg` `ESP32 / ESP8266`
 
 ## Current setup
 
 ```text
-       /\        simon@arch
-      /  \       OS      Arch Linux
-     /    \      Shell   bash
-    /      \     Term    ghostty
-   /   ,,   \    WM      niri
-  /   |  |   \   CPU     Intel Core i5-1334U
- /_-''    ''-_\  GPU     Intel Iris Xe Graphics
+        ,'''''.   simon@computer
+       |   ,.  |  OS       Windows 11 Home 26H2
+       |  |  '_'  WSL      Fedora Linux 44
+  ,....|  |..     Kernel   WSL2 6.18.54.1
+.'  ,_;|   ..'    Terminal Windows Terminal
+|  |   |  |       Shell    PowerShell / bash
+|  ',_,'  |       CPU      Intel Core i5-1334U
+ '.     ,'        GPU      Intel Iris Xe Graphics
+   '''''          Memory   31.69 GiB
 ```
