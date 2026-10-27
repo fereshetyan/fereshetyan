@@ -17,12 +17,12 @@ Software developer from Yerevan, Armenia.
 
 ```text
         ,'''''.   simon@computer
-       |   ,.  |  OS       Windows 11 Home 26H2
-       |  |  '_'  WSL      Fedora Linux 44
-  ,....|  |..     Kernel   WSL2 6.18.54.1
+       |   ,.  |  OS       Windows 11
+       |  |  '_'  WSL      Fedora Linux
+  ,....|  |..     Kernel   WSL2
 .'  ,_;|   ..'    Terminal Windows Terminal
 |  |   |  |       Shell    PowerShell / bash
 |  ',_,'  |       CPU      Intel Core i5-1334U
- '.     ,'        GPU      Intel Iris Xe Graphics
-   '''''          Memory   31.69 GiB
+ '.     ,'        RAM      31.69 GiB
+   '''''
 ```
