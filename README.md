@@ -11,7 +11,6 @@ Software developer from Yerevan, Armenia.
 ## Also worked with
 
 `Python` `C++` `Rust`
-`Windows Server` `FFmpeg` `ESP32 / ESP8266`
 
 ## Current setup
 
